@@ -1,0 +1,29 @@
+{
+  "name": "com.kit.cordova.amaplocation",
+  "version": "1.0.0",
+  "description": "Cordova Location Plugin Powerd by KIT",
+  "cordova": {
+    "id": "com.kit.cordova.amaplocation",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zengsoft/com.kit.cordova.amapnavigation.git"
+  },
+  "keywords": [
+    "cordova",
+    "location",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "yanxiaojun617@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zengsoft/com.kit.cordova.amapnavigation/issues"
+  },
+  "homepage": "https://github.com/Zengsoft/com.kit.cordova.amapnavigation#readme"
+}
